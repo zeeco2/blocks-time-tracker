@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="title desc">
+  <title id="title">Four Blocks logo concepts</title>
+  <desc id="desc">A comparison board showing Time Tile, Modular B, Time Stack, and Calendar Window logo directions.</desc>
+  <rect width="1200" height="900" fill="#F7F9FD"/>
+  <text x="72" y="78" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="750" letter-spacing="-1.5">Blocks — logo directions</text>
+  <text x="72" y="112" fill="#667085" font-family="Inter, Arial, sans-serif" font-size="16">Simple, scalable marks inspired by time blocks and the calendar.</text>
+
+  <g transform="translate(72 154)">
+    <rect width="504" height="292" rx="28" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <g transform="translate(36 42) scale(.58)">
+      <rect width="88" height="88" rx="24" fill="#4F8EF7"/><rect x="104" width="88" height="88" rx="24" fill="#82AEFA"/><rect y="104" width="88" height="88" rx="24" fill="#82AEFA"/><rect x="104" y="104" width="88" height="88" rx="24" fill="#4F8EF7"/>
+      <path d="M96 58v40l29 22" fill="none" stroke="#101828" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><circle cx="96" cy="98" r="9" fill="#101828"/>
+    </g>
+    <text x="172" y="142" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="750" letter-spacing="-3">Blocks</text>
+    <text x="36" y="240" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">01 · Time Tile</text>
+    <text x="36" y="266" fill="#667085" font-family="Inter, Arial, sans-serif" font-size="14">Friendly, balanced, unmistakably about time.</text>
+  </g>
+
+  <g transform="translate(624 154)">
+    <rect width="504" height="292" rx="28" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <g transform="translate(38 35) scale(.58)">
+      <rect width="56" height="216" rx="20" fill="#101828"/><rect x="68" width="96" height="60" rx="22" fill="#4F8EF7"/><rect x="68" y="78" width="78" height="60" rx="22" fill="#82AEFA"/><rect x="68" y="156" width="96" height="60" rx="22" fill="#4F8EF7"/><rect x="144" y="40" width="48" height="58" rx="20" fill="#4F8EF7"/><rect x="144" y="118" width="48" height="58" rx="20" fill="#4F8EF7"/>
+    </g>
+    <text x="172" y="142" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="750" letter-spacing="-3">Blocks</text>
+    <text x="36" y="240" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">02 · Modular B</text>
+    <text x="36" y="266" fill="#667085" font-family="Inter, Arial, sans-serif" font-size="14">Ownable initial with a confident app-icon silhouette.</text>
+  </g>
+
+  <g transform="translate(72 486)">
+    <rect width="504" height="292" rx="28" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <g transform="translate(26 52) scale(.58)">
+      <rect x="38" width="138" height="48" rx="24" fill="#82AEFA"/><rect y="66" width="206" height="48" rx="24" fill="#4F8EF7"/><rect x="68" y="132" width="138" height="48" rx="24" fill="#2F6EDB"/><circle cx="176" cy="24" r="8" fill="#FFFFFF"/><circle cx="30" cy="90" r="8" fill="#FFFFFF"/><circle cx="176" cy="156" r="8" fill="#FFFFFF"/>
+    </g>
+    <text x="172" y="142" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="750" letter-spacing="-3">Blocks</text>
+    <text x="36" y="240" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">03 · Time Stack</text>
+    <text x="36" y="266" fill="#667085" font-family="Inter, Arial, sans-serif" font-size="14">Fast and lightweight, with a sense of momentum.</text>
+  </g>
+
+  <g transform="translate(624 486)">
+    <rect width="504" height="292" rx="28" fill="#FFFFFF" stroke="#E5E7EB"/>
+    <g transform="translate(28 34) scale(.58)">
+      <rect x="8" y="8" width="200" height="200" rx="42" fill="#101828"/><rect x="28" y="52" width="160" height="136" rx="24" fill="#FFFFFF"/><rect x="52" y="30" width="12" height="42" rx="6" fill="#82AEFA"/><rect x="152" y="30" width="12" height="42" rx="6" fill="#82AEFA"/><rect x="46" y="76" width="36" height="36" rx="10" fill="#4F8EF7"/><rect x="90" y="76" width="36" height="36" rx="10" fill="#E8EEF8"/><rect x="134" y="76" width="36" height="36" rx="10" fill="#E8EEF8"/><rect x="46" y="120" width="36" height="36" rx="10" fill="#E8EEF8"/><rect x="90" y="120" width="36" height="36" rx="10" fill="#4F8EF7"/><rect x="134" y="120" width="36" height="36" rx="10" fill="#E8EEF8"/><rect x="134" y="164" width="36" height="12" rx="6" fill="#4F8EF7"/>
+    </g>
+    <text x="172" y="142" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="62" font-weight="750" letter-spacing="-3">Blocks</text>
+    <text x="36" y="240" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="700">04 · Calendar Window</text>
+    <text x="36" y="266" fill="#667085" font-family="Inter, Arial, sans-serif" font-size="14">Clear scheduling cue with a polished product feel.</text>
+  </g>
+
+  <text x="72" y="846" fill="#98A2B3" font-family="Inter, Arial, sans-serif" font-size="13">Core palette · Ink #101828 · Blue #4F8EF7 · Soft blue #82AEFA</text>
+</svg>

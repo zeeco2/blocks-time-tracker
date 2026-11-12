@@ -1,0 +1,20 @@
+// Copy this file to wrangler.cloudflare.jsonc (ignored by Git) and fill in
+// your own Cloudflare account ID and D1 database ID before deploying.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "account_id": "<YOUR_CLOUDFLARE_ACCOUNT_ID>",
+  "name": "blocks-time-tracker",
+  "main": "dist/server/index.js",
+  "compatibility_date": "2026-05-15",
+  "compatibility_flags": ["nodejs_compat"],
+  "assets": {
+    "directory": "dist/client"
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "blocks-time-tracker-db",
+      "database_id": "<YOUR_D1_DATABASE_ID>"
+    }
+  ]
+}

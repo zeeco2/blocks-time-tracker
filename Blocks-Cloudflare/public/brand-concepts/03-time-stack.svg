@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+  <title id="title">Blocks logo concept 3 — Time Stack</title>
+  <desc id="desc">Three staggered rounded time blocks create forward motion beside the Blocks wordmark.</desc>
+  <g transform="translate(52 70)">
+    <rect x="38" width="138" height="48" rx="24" fill="#82AEFA"/>
+    <rect y="66" width="206" height="48" rx="24" fill="#4F8EF7"/>
+    <rect x="68" y="132" width="138" height="48" rx="24" fill="#2F6EDB"/>
+    <circle cx="176" cy="24" r="8" fill="#FFFFFF"/>
+    <circle cx="30" cy="90" r="8" fill="#FFFFFF"/>
+    <circle cx="176" cy="156" r="8" fill="#FFFFFF"/>
+  </g>
+  <text x="306" y="194" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="112" font-weight="750" letter-spacing="-6">Blocks</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+  <title id="title">Blocks logo concept 2 — Modular B</title>
+  <desc id="desc">A bold letter B assembled from five rounded blocks beside the Blocks wordmark.</desc>
+  <g transform="translate(64 52)">
+    <rect width="56" height="216" rx="20" fill="#101828"/>
+    <rect x="68" width="96" height="60" rx="22" fill="#4F8EF7"/>
+    <rect x="68" y="78" width="78" height="60" rx="22" fill="#82AEFA"/>
+    <rect x="68" y="156" width="96" height="60" rx="22" fill="#4F8EF7"/>
+    <rect x="144" y="40" width="48" height="58" rx="20" fill="#4F8EF7"/>
+    <rect x="144" y="118" width="48" height="58" rx="20" fill="#4F8EF7"/>
+  </g>
+  <text x="306" y="194" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="112" font-weight="750" letter-spacing="-6">Blocks</text>
+</svg>

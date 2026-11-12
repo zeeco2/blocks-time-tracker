@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+  <title id="title">Blocks logo concept 1 — Time Tile</title>
+  <desc id="desc">A blue rounded tile made from four blocks, with a clock hand in the open center, beside the Blocks wordmark.</desc>
+  <g transform="translate(64 64)">
+    <rect width="88" height="88" rx="24" fill="#4F8EF7"/>
+    <rect x="104" width="88" height="88" rx="24" fill="#82AEFA"/>
+    <rect y="104" width="88" height="88" rx="24" fill="#82AEFA"/>
+    <rect x="104" y="104" width="88" height="88" rx="24" fill="#4F8EF7"/>
+    <path d="M96 58v40l29 22" fill="none" stroke="#101828" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="96" cy="98" r="9" fill="#101828"/>
+  </g>
+  <text x="306" y="194" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="112" font-weight="750" letter-spacing="-6">Blocks</text>
+</svg>

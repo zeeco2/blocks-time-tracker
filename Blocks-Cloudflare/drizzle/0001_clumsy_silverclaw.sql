@@ -1,0 +1,1 @@
+ALTER TABLE `entries` ADD `is_r_and_d` integer DEFAULT false NOT NULL;

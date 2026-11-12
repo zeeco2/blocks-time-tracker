@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1791832832447,
+      "tag": "0000_dry_roughhouse",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1791833481659,
+      "tag": "0001_clumsy_silverclaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1792080792624,
+      "tag": "0002_nappy_siren",
+      "breakpoints": true
+    }
+  ]
+}

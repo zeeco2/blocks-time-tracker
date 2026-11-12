@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+  <title id="title">Blocks logo concept 4 — Calendar Window</title>
+  <desc id="desc">A rounded calendar window with a highlighted diagonal of scheduled blocks beside the Blocks wordmark.</desc>
+  <g transform="translate(56 52)">
+    <rect x="8" y="8" width="200" height="200" rx="42" fill="#101828"/>
+    <rect x="28" y="52" width="160" height="136" rx="24" fill="#FFFFFF"/>
+    <rect x="52" y="30" width="12" height="42" rx="6" fill="#82AEFA"/>
+    <rect x="152" y="30" width="12" height="42" rx="6" fill="#82AEFA"/>
+    <rect x="46" y="76" width="36" height="36" rx="10" fill="#4F8EF7"/>
+    <rect x="90" y="76" width="36" height="36" rx="10" fill="#E8EEF8"/>
+    <rect x="134" y="76" width="36" height="36" rx="10" fill="#E8EEF8"/>
+    <rect x="46" y="120" width="36" height="36" rx="10" fill="#E8EEF8"/>
+    <rect x="90" y="120" width="36" height="36" rx="10" fill="#4F8EF7"/>
+    <rect x="134" y="120" width="36" height="36" rx="10" fill="#E8EEF8"/>
+    <rect x="134" y="164" width="36" height="12" rx="6" fill="#4F8EF7"/>
+  </g>
+  <text x="306" y="194" fill="#101828" font-family="Inter, Arial, sans-serif" font-size="112" font-weight="750" letter-spacing="-6">Blocks</text>
+</svg>
